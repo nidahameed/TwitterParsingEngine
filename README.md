@@ -10,4 +10,4 @@ For our project we built a parser that would take the tweet from that the user w
 
 The program can be run in the IntelliJ IDEA IDE that was used to create this project. 
 
-![Image of User Input request]([url=https://postimg.cc/xcZv0mnG][img]https://i.postimg.cc/xcZv0mnG/Screenshot-50.png[/img][/url])
+![Image of User Input] (https://postimg.cc/xcZv0mnG)
