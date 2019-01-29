@@ -9,7 +9,7 @@ For our project we built a parser that would take the tweet from that the user w
 
 The program can be run in the IntelliJ IDEA IDE that was used to create this project.   
    
-Additonally, the follwing link containns the screenshotd of what the outputs of running the program and running the tests are: https://drive.google.com/open?id=182xZkQOC6HrVeenYgcnBmDUCI7hsIBNI  
+Additionally, the follwing link containns the screenshotd of what the outputs of running the program and running the tests are: https://drive.google.com/open?id=182xZkQOC6HrVeenYgcnBmDUCI7hsIBNI  
 
 ## Testing  
 We tested several methods such as making sure that the mentions, hashtags, and URLS were being stored correctly, and that the size of the ArrayLists was accurate. We also tested out character length method. This was out first time creating JUnit tests, so the tests are basic tests that correspond to our TwitterParser class.  
