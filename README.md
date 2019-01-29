@@ -7,7 +7,9 @@ We created our project in IntelliJ and build it using Maven (we have included th
 ## About & Running
 For our project we built a parser that would take the tweet from that the user would input once the program is run. Running the program prompts the user to enter a tweet that can include mentions, hashtags, and URLs. Once a tweet is inputted, the program then parses through the tweet and stores all the mentions, hastags, and URLs in theirown respective ArrayLists and then print out the ArrayList and its size for each. It also only runs for tweets that follow the 280 character rule of Twitter. Any input greater than 280 characters will recieve a response of "Sorry, your tweet exceeds 280 characters."  
 
-The program can be run in the IntelliJ IDEA IDE that was used to create this project. 
+The program can be run in the IntelliJ IDEA IDE that was used to create this project.   
+   
+Additonally, the follwing link containns the screenshotd of what the outputs of running the program and running the tests are: https://drive.google.com/open?id=182xZkQOC6HrVeenYgcnBmDUCI7hsIBNI  
 
 ## Testing  
 We tested several methods such as making sure that the mentions, hashtags, and URLS were being stored correctly, and that the size of the ArrayLists was accurate. We also tested out character length method. This was out first time creating JUnit tests, so the tests are basic tests that correspond to our TwitterParser class.  
